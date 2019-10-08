@@ -16,5 +16,9 @@ const quotes = [
     {
         quote: "All's well that ends well.",
         person: "Shakespeare"
+    },
+    {
+        quote: "We are all in this together",
+        person: "HSM"
     }
 ]
